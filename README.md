@@ -1,4 +1,4 @@
-# Grayscale Image Processing GUI Application
+# Image Processing GUI Application
 
 ## Overview
 
